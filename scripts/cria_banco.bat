@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\MySQL\MySQL Server 5.1\bin\mysql.exe" -u root -pThales-2012 -e "create database dbsistemavenda"
