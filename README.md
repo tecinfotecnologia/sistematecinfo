@@ -1,5 +1,5 @@
 <h1>Sistemas de Vendas</h1>
-<p>Autor: Thales Almeida<br>E-mail: techinfoalmeida@gmail.com</p>
+<p>Autor: Thales Almeida<br>E-mail: thalesalmeida.tecinfo@gmail.com</p>
 <p>Aplicação desenvolvida como material de apoio ao aprendizado de programação Java usando o pacote Swing. É fornecida gratuitamente "no estado em que se encontra", isentando o autor de qualquer garantia ou danos que possam resultar do uso da mesma.</p>
 <p>Ferramentas utilizadas:
   <ul>
@@ -11,4 +11,4 @@
   </ul>
 </p>
 <p>Pré-visualização:</p>
-<img src="http://jdenner.com/github/java-sistema-vendas.png" alt="Calculadora executando">
+<img src="https://github.com/tecinfotecnologia/techsistema/raw/master/scripts/tela.jpg" alt="Tela de Cadastro">

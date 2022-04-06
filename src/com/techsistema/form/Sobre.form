@@ -46,7 +46,7 @@
           <Font name="SansSerif" size="11" style="0"/>
         </Property>
         <Property name="rows" type="int" value="5"/>
-        <Property name="text" type="java.lang.String" value="Sistema de Vendas&#xa;Autor: Thales Almeida&#xa;E-mail: techinfoalmeida@gmail.com&#xa;&#xa;Aplica&#xe7;&#xe3;o desenvolvida como material&#xa;de apoio ao aprendizado de programa&#xe7;&#xe3;o &#xa;Java. &#xc9; fornecida gratuitamente &quot;no estado &#xa;em que se encontra&quot;, isentando o autor de &#xa;qualquer garantia ou danos que possam &#xa;resultar do usa da mesma."/>
+        <Property name="text" type="java.lang.String" value="Sistema de Vendas&#xa;Autor: Thales Almeida&#xa;E-mail: thalesalmeida.tecinfo@gmail.com&#xa;&#xa;Aplica&#xe7;&#xe3;o desenvolvida como material&#xa;de apoio ao aprendizado de programa&#xe7;&#xe3;o &#xa;Java. &#xc9; fornecida gratuitamente &quot;no estado &#xa;em que se encontra&quot;, isentando o autor de &#xa;qualquer garantia ou danos que possam &#xa;resultar do usa da mesma."/>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="org.netbeans.modules.form.compat2.border.EmptyBorderInfo">
             <EmptyBorder bottom="10" left="10" right="10" top="10"/>

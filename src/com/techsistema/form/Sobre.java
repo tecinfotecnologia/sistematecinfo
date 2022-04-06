@@ -35,7 +35,7 @@ public class Sobre extends javax.swing.JDialog {
         taTexto.setColumns(20);
         taTexto.setFont(new java.awt.Font("SansSerif", 0, 11)); // NOI18N
         taTexto.setRows(5);
-        taTexto.setText("Sistema de Vendas\nAutor: Thales Almeida\nE-mail: techinfoalmeida@gmail.com\n\nAplicação desenvolvida como material\nde apoio ao aprendizado de programação \nJava. É fornecida gratuitamente \"no estado \nem que se encontra\", isentando o autor de \nqualquer garantia ou danos que possam \nresultar do usa da mesma.");
+        taTexto.setText("Sistema de Vendas\nAutor: Thales Almeida\nE-mail: thalesalmeida.tecinfo@gmail.com\n\nAplicação desenvolvida como material\nde apoio ao aprendizado de programação \nJava. É fornecida gratuitamente \"no estado \nem que se encontra\", isentando o autor de \nqualquer garantia ou danos que possam \nresultar do usa da mesma.");
         taTexto.setBorder(javax.swing.BorderFactory.createEmptyBorder(10, 10, 10, 10));
         taTexto.setOpaque(false);
         gridBagConstraints = new java.awt.GridBagConstraints();
