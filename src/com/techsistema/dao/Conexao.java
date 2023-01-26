@@ -13,7 +13,7 @@ public class Conexao {
     private final String PORTA = "3306";
     private final String BANCO_DE_DADOS = "dbsistemavenda";
     private final String USUARIO = "root";
-    private final String SENHA = "Thales-2012";
+    private final String SENHA = "";
     private final String URL = "jdbc:mysql://" + SERVIDOR + ":" + PORTA + "/" + BANCO_DE_DADOS;
 
     private Connection conexao;
